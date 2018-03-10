@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OlaPlay Studio</string>
+    <string name="something_wrong">Sorry,something went wrong.Please try again.</string>
+
+    <!-- For double tap Exit-->
+    <string name="press_once_again_to_exit">Tap back again to exit app</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_downloads">Downloads</string>
+    <string name="title_activity_favourite">Favourite</string>
+    <string name="title_activity_play_list">PlayList</string>
+</resources>
